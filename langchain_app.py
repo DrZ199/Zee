@@ -4,7 +4,7 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 st.set_page_config(page_title="HugChat - An LLM-powered Streamlit app")
-st.title('🤗💬 HugChat App')
+st.title('NelsonBot')
 
 # Hugging Face Credentials
 with st.sidebar:
